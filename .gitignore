@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+# bases nacionais originais (700 MB): baixar do OpenDataSUS, ver ml/dados/README.md
+ml/dados/INFLUD*.csv
+local/
